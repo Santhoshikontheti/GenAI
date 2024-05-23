@@ -23,7 +23,5 @@ To do the above tasks, I've installed two libraries: Langchain and Llama.cpp.
 **llama.cpp** enables us to execute quantized versions of models.
 
 ## 4. Deploy the LLM model as a chatbot using Streamlit
-In addition to notebook testing, I will deploy my chatbot locally using Streamlit. [Code here](https://github.com/sumitdeole/llms-from-rag-to-chatbots/blob/main/code/5_deploy_chatbot_on_streamlit.ipynb). For a step-by-step explanation of code, please read my [medium.com article](https://medium.com/@sumitdeole/unearthing-the-potential-of-large-language-models-llms-32a7d70a9f0c)
+In addition to notebook testing, I will deploy my chatbot locally using Streamlit. [Code here](https://github.com/sumitdeole/llms-from-rag-to-chatbots/blob/main/code/5_deploy_chatbot_on_streamlit.ipynb).
 
-
-[DEMO VIDEO](https://www.loom.com/share/ad29f56f89574e30ba302d013dbc7ff1)
