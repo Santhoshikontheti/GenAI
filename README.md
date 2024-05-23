@@ -25,3 +25,4 @@ To do the above tasks, I've installed two libraries: Langchain and Llama.cpp.
 ## 4. Deploy the LLM model as a chatbot using Streamlit
 In addition to notebook testing, I will deploy my chatbot locally using Streamlit. [Code here](https://github.com/sumitdeole/llms-from-rag-to-chatbots/blob/main/code/5_deploy_chatbot_on_streamlit.ipynb).
 
+![image](https://github.com/Santhoshikontheti/GenAI/assets/156209218/3f27ba4e-790f-4d8e-9dd9-84217776d39b)
